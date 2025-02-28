@@ -7,3 +7,5 @@ sentence-transformers
 faiss-cpu
 gunicorn
 dotenv
+chromadb
+pypdf
