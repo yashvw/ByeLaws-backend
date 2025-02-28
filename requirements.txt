@@ -6,3 +6,4 @@ groq
 sentence-transformers
 faiss-cpu
 gunicorn
+dotenv
